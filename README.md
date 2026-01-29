@@ -8,3 +8,6 @@
 Rob Pike](https://go.dev/blog/errors-are-values)
 3. [GitHub - errors](https://github.com/pkg/errors)(заморожена)
 4. [GitHub - cockroachdb/errors](https://github.com/cockroachdb/errors)
+
+## GitLab
+1. [Статья на Хабре: про тонкости настройки gitlab-ci](https://habr.com/ru/companies/ruvds/articles/922244/)
