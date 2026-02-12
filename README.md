@@ -10,4 +10,5 @@ Rob Pike](https://go.dev/blog/errors-are-values)
 4. [GitHub - cockroachdb/errors](https://github.com/cockroachdb/errors)
 
 ## GitLab
-1. [Статья на Хабре: про тонкости настройки gitlab-ci](https://habr.com/ru/companies/ruvds/articles/922244/)
+1. [Хабр: про тонкости настройки gitlab-ci](https://habr.com/ru/companies/ruvds/articles/922244/)
+2. [Хабр: про настройку gitlab-ci в контексте микросервисов](https://habr.com/ru/articles/850842/)
