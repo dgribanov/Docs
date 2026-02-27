@@ -12,3 +12,6 @@ Rob Pike](https://go.dev/blog/errors-are-values)
 ## GitLab
 1. [Хабр: про тонкости настройки gitlab-ci](https://habr.com/ru/companies/ruvds/articles/922244/)
 2. [Хабр: про настройку gitlab-ci в контексте микросервисов](https://habr.com/ru/articles/850842/)
+
+## VibeCoding
+1. [Как пользоваться Claude в России](https://another-it.ru/2026/02/26/connecting-and-paying-for-claude-code-from-russia/?utm_referrer=https%3A%2F%2Fyandex.ru%2F)
