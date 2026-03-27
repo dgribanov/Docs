@@ -15,3 +15,6 @@ Rob Pike](https://go.dev/blog/errors-are-values)
 
 ## VibeCoding
 1. [Как пользоваться Claude в России](https://another-it.ru/2026/02/26/connecting-and-paying-for-claude-code-from-russia/?utm_referrer=https%3A%2F%2Fyandex.ru%2F)
+
+## Kubernetes
+1. [Хабр: CPU-лимиты и агрессивный троттлинг в Kubernetes](https://habr.com/ru/companies/flant/articles/489668/)
